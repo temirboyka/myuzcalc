@@ -1,0 +1,2 @@
+# myuzcalc
+Uzbekcha kalkulyator dasturi
